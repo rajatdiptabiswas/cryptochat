@@ -29,7 +29,7 @@ A chat application made with JavaFX. Messages are encrypted using end-to-end AES
 
 See also the list of [contributors](https://github.com/rajatdiptabiswas/cryptochat/graphs/contributors) who participated in this project.
 
-### Acknowledgments
+### Acknowledgements
 
 * [StackOverflow](https://stackoverflow.com)
 * Manthan Dave - [Making a chat application in Java](https://www.youtube.com/playlist?list=PLVBXNyNyLNq149v9Y-DpZhAPAqDlgxSCc)
